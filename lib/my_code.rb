@@ -5,3 +5,5 @@ my_map = ["X", "Y", "Z"]
 :Y => "2"
 :Z => "3"
 },
+def 
+map_to_negativize(my_map)
