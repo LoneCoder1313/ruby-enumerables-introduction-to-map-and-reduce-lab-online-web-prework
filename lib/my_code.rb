@@ -1,2 +1,2 @@
-my_map
-def :my_map
+my_map = ["x", "y", "z"]
+
