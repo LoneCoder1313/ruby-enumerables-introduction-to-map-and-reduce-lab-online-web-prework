@@ -7,3 +7,4 @@ my_map = ["X", "Y", "Z"]
 },
 def 
 map_to_negativize(my_map)
+#=> 
